@@ -96,6 +96,11 @@ main p {
     line-height: 2em;
 }
 
+main strong {
+    color:black ;
+    font-weight: bolder;
+}
+
 main img {
     width: 100%;
     margin-bottom: 10px;
@@ -111,7 +116,6 @@ main a {
 
 footer {
     background-color: rgb(27, 27, 27);
-    height: 50px;
 }
 
 footer p {
